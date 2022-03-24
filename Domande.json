@@ -1,0 +1,49 @@
+{
+   "domande": [
+     {
+       "domanda": "Contro quale squadra l'Italia ha disputato la finale di Euro 2020?",
+       "risposte": [
+         "Inghilterra",
+         "Germania",
+         "Austria",
+         "Spagna"
+       ]
+     },
+     {
+       "domanda": "Quale di queste serie di giochi è stata sviluppata da CD Projekt RED?",
+       "risposte": [
+         "The Witcher",
+         "Assassin's Creed",
+         "Starcraft",
+         "Dark Souls"
+       ]
+     },
+     {
+       "domanda": "Di quale stato fanno parte le Hawaii?",
+       "risposte": [
+         "Stati Uniti",
+         "Italia",
+         "Inghilterra",
+         "Svezia"
+       ]
+     },
+     {
+       "domanda": "Qual è l'isola più grande del mondo?",
+       "risposte": [
+         "Groenlandia",
+         "Nuova Guinea",
+         "Borneo",
+         "Madagascar"
+       ]
+     },
+     {
+       "domanda": "Chi ha diretto il film \"2001: Odissea nello spazio\"?",
+       "risposte": [
+         "Stanley Kubrick",
+         "Steven Spielberg",
+         "Alfred Hitchcock",
+         "Martin Scorsese"
+       ]
+     }
+   ]
+}
